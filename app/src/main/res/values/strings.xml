@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Knight</string>
+    <string name="size">Chessboard size (6 - 16)</string>
+    <string name="moves">Number of moves (2 - 10)</string>
+    <string name="sizeErr">Size should be between 6 and 16</string>
+    <string name="movesErr">Moves should be between 2 and 10</string>
+    <string name="putKnight">Tap on the chessboard to put the knight</string>
+    <string name="putKing">Now tap on the chessboard to put the king</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="cancel">Cancel</string>
+    <string name="resoultsfound">results found</string>
+</resources>
