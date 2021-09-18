@@ -8,3 +8,6 @@ Changing grid size or number of moves also stops calculation if in progress. Cha
 The results are presented in a list using algebraic chess notation and are updated during calculation. The number of found results is also shown.
 Tapping on a result draws its path on the chessboard
 
+You can download the app from https://ioair.link/6tvdyu
+(Link valid until 26/09/2021
+
